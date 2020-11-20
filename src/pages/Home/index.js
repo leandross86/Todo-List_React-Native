@@ -62,9 +62,9 @@ export default function Home() {
 
   useEffect(() => {
     async function carregaDados() {
-      const task = await AsyncStorage.getItem("task");
-      if (task) {
-        setTask(JSON.parse(task));
+      const getTask = await AsyncStorage.getItem("task");
+      if (getTask) {
+        setTask(JSON.parse(getTask));
       }
     }
     carregaDados();

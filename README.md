@@ -1,9 +1,5 @@
 # To-Do List
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=leandross86_Todo_List_React_Native&metric=alert_status)](https://sonarcloud.io/dashboard?id=leandross86_Todo_List_React_Native) <a href="./LICENSE">
-<img src="https://img.shields.io/github/license/https://github.com/leandross86/Todo-List_React-Native.git"/>
-</a> <img src="https://img.shields.io/github/last-commit/https://github.com/leandross86/Todo-List_React-Native.git">
-
 
 <img src="./src/assets/image/1.jpeg"/>
 <img src="./src/assets/image/2.jpeg"/>  <img src="./src/assets/image/3.jpeg"/> <img src="./src/assets/image/4.jpeg"/>  <img src="./src/assets/image/5.jpeg"/>

@@ -11,7 +11,6 @@ import {
   SubmitText
 } from '../SignIn/styles';
 
-
 export default function SignIn() {
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
